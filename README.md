@@ -1,4 +1,3 @@
-# ````markdown
 # AI Portfolio
 
 Professional portfolio focused on Artificial Intelligence, Machine Learning, Data Science and Python engineering.
