@@ -1,6 +1,6 @@
 # AI Portfolio
 
-Professional portfolio focused on Artificial Intelligence, Machine Learning, Data Science and Python engineering.
+Professional portfolio focused on Artificial Intelligence, Machine Learning, Data Science, Business Intelligence and Python engineering.
 
 ---
 
@@ -11,8 +11,11 @@ Professional portfolio focused on Artificial Intelligence, Machine Learning, Dat
 - NumPy
 - Scikit-learn
 - Matplotlib
+- FastAPI
+- Streamlit
 - Git
 - GitHub
+- Jupyter Notebook
 
 ---
 
@@ -27,6 +30,9 @@ Professional portfolio focused on Artificial Intelligence, Machine Learning, Dat
 - Neural Networks
 - Big Data
 - Cloud Computing
+- Business Intelligence
+- AI Agents
+- Predictive Analytics
 
 ---
 
@@ -52,6 +58,34 @@ The specialization program focuses on practical Artificial Intelligence applicat
 
 ---
 
+## Main Project
+
+### AI Business Agent
+
+AI-powered business analytics platform focused on data analysis, predictive models, automation and intelligent business insights.
+
+Current project features:
+
+- Business analytics and KPI generation
+- Sales prediction with Machine Learning
+- Data visualization dashboards
+- FastAPI integration
+- CSV data processing
+- Automated business diagnostics
+- Modular Python architecture
+
+Future project goals:
+
+- Streamlit web dashboard
+- AI-generated executive reports
+- Intelligent business assistant
+- AI agents and automation
+- Advanced predictive models
+- Cloud deployment
+- Computer Vision integration
+
+---
+
 ## Project Structure
 
 ```bash
@@ -60,36 +94,41 @@ data/         # Datasets
 models/       # Trained models
 notebooks/    # Jupyter notebooks
 images/       # Visual assets and charts
+api/          # API routes and integrations
+services/     # Business logic and services
+tests/        # Automated tests
 ```
 
 ---
 
 ## Objective
 
-Develop practical Artificial Intelligence and Machine Learning projects focused on real-world applications, clean code and professional software development practices.
+Develop practical Artificial Intelligence and Machine Learning projects focused on real-world business applications, scalable architectures, clean code and professional software engineering practices.
 
 ---
 
 ## Planned Projects
 
+- AI Business Intelligence Platform
 - Sentiment Analysis
 - Price Prediction Models
 - Machine Learning Pipelines
-- Natural Language Processing
+- Natural Language Processing Applications
 - Computer Vision Applications
 - AI Automation Tools
 - Data Analysis Dashboards
 - Deep Learning Applications
+- AI-Powered APIs
+- Intelligent Business Assistants
 
 ---
 
 ## Development Status
 
-This repository is actively being developed with practical Artificial Intelligence and Machine Learning projects.
+This repository is actively being developed with practical Artificial Intelligence, Machine Learning and Business Intelligence projects focused on real-world applications and scalable AI solutions.
 
 ---
 
 ## Author
 
 Fernanda Babeto
-````
