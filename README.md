@@ -1,2 +1,3 @@
-# ai-portfolio
- Projetos de Inteligência Artificial, Machine Learning e automações com Python. Public Add a README file
+# AI Portfolio 
+ 
+Projetos profissionais de Inteligencia Artificial e Machine Learning com Python. 
