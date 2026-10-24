@@ -31,6 +31,12 @@ Para executar os testes, siga a instalação no README daquele projeto e rode:
 python -m unittest discover -s tests -v
 ```
 
+## Verificação técnica
+
+Em 24/10/2026, os cinco testes existentes de visão computacional foram executados novamente com Python 3.12, NumPy 1.26.4 e OpenCV Headless 4.10.0.84: **todos passaram**. O lote de 1.300 imagens não foi repetido nesta revisão.
+
+Veja o [relatório técnico e as próximas prioridades](docs/revisao-tecnica-2026-10-24.md).
+
 ## Direção de desenvolvimento
 
 Meu interesse está em aplicações de IA para negócios em diferentes setores. A experiência em Odontologia e Ortodontia integra minha trajetória profissional; o desenvolvimento de produtos de IA não está restrito à saúde.
