@@ -13,6 +13,7 @@ Este repositório organiza os projetos públicos e suas evidências. O código d
 | [Pré-processamento de imagens industriais](https://github.com/fernandababeto-byte/mini-projeto-visao-computacional) | Pipeline Python/OpenCV para padronizar imagens de peças fundidas, separar o objeto do fundo e realçar bordas. | Projeto acadêmico com testes e comparativo visual. Prepara imagens; não classifica defeitos. |
 | [Preparação de dados de e-commerce](https://github.com/fernandababeto-byte/mini-projeto-olist-etl) | Limpeza de produtos e pedidos Olist com bibliotecas nativas de Python: CSV, expressões regulares e datas. | Projeto acadêmico de ETL. As regras refletem a atividade e precisam ser reavaliadas para outros conjuntos de dados. |
 | [AI Business Agent](https://github.com/fernandababeto-byte/ai-business-agent) | Aplicação em desenvolvimento com API FastAPI, interface Streamlit e módulos para análise de negócios e integração Shopify. | Protótipo que exige configuração e validação das integrações. A existência do código não comprova operação em produção nem qualidade preditiva. |
+| [PLN em português com Python](https://www.kaggle.com/code/fernandababeto/pln-em-portugu-s-com-python-fundamentos) | Normalização Unicode, tokenização, frequência lexical e preservação da negação em quatro frases sintéticas. [Artigo explicativo](https://fernandababeto.blogspot.com/2026/10/pln-com-python-tokenizacao-de-textos-em.html). | Tutorial educacional com assistência de IA. Não treina modelos nem classifica sentimentos; não demonstra retorno financeiro ou validação comercial. |
 
 ## Comece pelo projeto de visão computacional
 
@@ -65,7 +66,7 @@ As tecnologias utilizadas e as dependências de execução estão documentadas e
 
 - [LinkedIn](https://www.linkedin.com/in/fernanda-babeto-89146229a/)
 - [Apresentação profissional](https://babetoortodontia.wordpress.com/)
-- [Artigos sobre IA e Python](https://dominunventrue.blogspot.com/)
+- [Artigos sobre IA e Python](https://fernandababeto.blogspot.com/)
 - [Repositórios no GitHub](https://github.com/fernandababeto-byte)
 
 ## Estrutura deste repositório
