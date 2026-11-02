@@ -16,7 +16,7 @@ Este portfólio reúne o trabalho que já pode ser consultado e distingue projet
 | [Pré-processamento de imagens industriais](https://github.com/fernandababeto-byte/mini-projeto-visao-computacional) | Pipeline com Python e OpenCV para padronização de imagens de peças fundidas, separação do objeto e realce de bordas. | Projeto acadêmico. Código, comparativo visual e testes disponíveis; não é um classificador de defeitos. |
 | [Preparação de dados de e-commerce](https://github.com/fernandababeto-byte/mini-projeto-olist-etl) | Limpeza de produtos e pedidos Olist com CSV, expressões regulares e tratamento de datas em Python. | Projeto acadêmico de ETL. Regras documentadas para o contexto da atividade. |
 | [PLN em português com Python](https://www.kaggle.com/code/fernandababeto/pln-em-portugu-s-com-python-fundamentos) | Normalização Unicode, tokenização, frequência lexical e preservação da negação em quatro frases sintéticas. | Tutorial educacional com assistência de IA. Notebook público e [artigo explicativo](https://fernandababeto.blogspot.com/2026/10/pln-com-python-tokenizacao-de-textos-em.html); sem treinamento de modelos ou classificação de sentimentos. |
-| [AI Business Agent](https://github.com/fernandababeto-byte/ai-business-agent) | Protótipo com API FastAPI, interface Streamlit e módulos de análise de negócios e integração Shopify. | Em desenvolvimento. Integrações e previsões precisam de validação; o código disponível não comprova operação comercial. |
+| [AI Business Agent](https://github.com/fernandababeto-byte/ai-business-agent) | Protótipo com API FastAPI, interface Streamlit e módulos de análise de negócios e integração Shopify. | Protótipo com demonstração offline, 14 testes e CI aprovados em 02/11/2026. A integração real e a operação comercial continuam sem validação. |
 
 ### Explore uma demonstração: visão computacional
 
@@ -121,7 +121,7 @@ A evolução para produtos dependerá dessas evidências. Ainda não apresento o
 
 O [relatório técnico de 24/10/2026](docs/revisao-tecnica-2026-10-24.md) registra arquivos examinados, testes executados e pendências.
 
-No AI Business Agent, a avaliação identificou componentes que usam a ordem das linhas ou uma média constante para produzir projeções. Eles precisam de revisão e avaliação temporal antes de sustentar alegações de previsão de vendas validada. Os detalhes permanecem no relatório, junto aos limites da análise.
+Atualização de 02/11/2026: o [AI Business Agent](https://github.com/fernandababeto-byte/ai-business-agent) passou a identificar o cálculo como cenário hipotético, removeu a projeção mensal fictícia do componente legado e incorporou 14 testes, demonstração offline e CI aprovado. Consulte o [guia para experimentar sem Shopify](https://github.com/fernandababeto-byte/ai-business-agent/blob/main/docs/demonstracao-sem-shopify.md). O módulo experimental de regressão ainda requer avaliação temporal; integrações reais e operação comercial não foram validadas. O relatório de 24/10 permanece como registro histórico.
 
 ## Publicações e contato profissional
 
