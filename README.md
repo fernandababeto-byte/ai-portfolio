@@ -20,7 +20,7 @@ Este portfólio reúne o trabalho que já pode ser consultado e distingue projet
 
 ### Experimente no navegador: cenário de receita
 
-[Abrir demonstração pública — Laboratório de receita](https://babeto-revenue-demo.ruraltapir1.chatgpt.site/)
+[Abrir demonstração pública — Laboratório de receita](https://fernanda-babeto-ia.ruraltapir1.chatgpt.site/)
 
 Altere quatro pedidos fictícios e acompanhe o total, a média dos três mais recentes e o cenário com um pedido adicional. A demonstração funciona sem login, sem instalação e sem loja Shopify. É uma hipótese aritmética, não uma previsão por IA nem o dashboard completo do produto.
 
