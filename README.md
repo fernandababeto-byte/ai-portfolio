@@ -18,6 +18,12 @@ Este portfólio reúne o trabalho que já pode ser consultado e distingue projet
 | [PLN em português com Python](https://www.kaggle.com/code/fernandababeto/pln-em-portugu-s-com-python-fundamentos) | Normalização Unicode, tokenização, frequência lexical e preservação da negação em quatro frases sintéticas. | Tutorial educacional com assistência de IA. Notebook público e [artigo explicativo](https://fernandababeto.blogspot.com/2026/10/pln-com-python-tokenizacao-de-textos-em.html); sem treinamento de modelos ou classificação de sentimentos. |
 | [AI Business Agent](https://github.com/fernandababeto-byte/ai-business-agent) | Protótipo com API FastAPI, interface Streamlit e módulos de análise de negócios e integração Shopify. | Protótipo com demonstração offline, 14 testes e CI aprovados em 02/11/2026. A integração real e a operação comercial continuam sem validação. |
 
+### Experimente no navegador: cenário de receita
+
+[Abrir demonstração pública — Laboratório de receita](https://babeto-revenue-demo.ruraltapir1.chatgpt.site/)
+
+Altere quatro pedidos fictícios e acompanhe o total, a média dos três mais recentes e o cenário com um pedido adicional. A demonstração funciona sem login, sem instalação e sem loja Shopify. É uma hipótese aritmética, não uma previsão por IA nem o dashboard completo do produto.
+
 ### Explore uma demonstração: visão computacional
 
 O projeto de imagens industriais permite acompanhar uma sequência de processamento, examinar as decisões de implementação e executar testes com entradas de exemplo.
